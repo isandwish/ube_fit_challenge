@@ -28,8 +28,16 @@ In version V.0.1.0, the following features have been implemented:
 - **Backend**: Firebase 
 - **Database**: Cloud Firestore
 
+## Screenshots
+Here is a preview of the app:
+
+![Landing Page](MockUp/Mobile/Landing%20Page.png)
+![Home Page](MockUp/Mobile/Home%20Page.png)
+![Activity Page](MockUp/Mobile/Activity%20Page.png)
+![Rank Page](MockUp/Mobile/Ranking%20Page.png)
+
 ## Contact
 For any inquiries or support, please contact us at [natthanicha.jjr@gmail.com](mailto:natthanicha.jjr@gmail.com).
 
-Natthanicha Jamjuree
+## Natthanicha Jamjuree
 
