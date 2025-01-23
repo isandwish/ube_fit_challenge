@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558393215196",
+    "project_id": "ube-fit-challenge",
+    "storage_bucket": "ube-fit-challenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558393215196:android:c98671bc1f0c45481e8c19",
+        "android_client_info": {
+          "package_name": "com.example.ube_fit_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPTekQpnq7Qv-3S5DfesJIvfLJhfMe-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
