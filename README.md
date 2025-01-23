@@ -41,5 +41,4 @@ Here is a preview of the app:
 ## Contact
 For any inquiries or support, please contact us at [natthanicha.jjr@gmail.com](mailto:natthanicha.jjr@gmail.com).
 
-## Natthanicha Jamjuree
-
+- Natthanicha Jamjuree -
