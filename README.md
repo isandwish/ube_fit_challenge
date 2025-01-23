@@ -15,6 +15,7 @@ In version V.0.1.0, the following features have been implemented:
 - **Login and Register**: Fully functional login and registration screens for user authentication.
 - **Exercise Data Logging**: Users can record their exercise data, which is stored in the database.
 - **Database Integration**: Real-time data storage and retrieval functionality.
+
 In this version, the application has been developed for a screen size of 1080px by 2400px. Using other screen sizes may result in errors or display issues.
 
 ### Upcoming Features
